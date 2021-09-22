@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.happyfamilybox">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HappyFamilyBox">
+        <activity android:name=".AddCropFromHomePageActivity"></activity>
+        <activity android:name=".YourBookingsActivity" />
+        <activity android:name=".ViewHistoryActivity" />
+        <activity android:name=".RateFarmerActivity" />
+        <activity android:name=".BookVegetableActivity" />
+        <activity android:name=".AddNewVegetableActivity" />
+        <activity android:name=".EditVegetableSectionActivity" />
+        <activity android:name=".ReservedFieldsOfCitizenActivity" />
+        <activity android:name=".FarmerRequestActivity" />
+        <activity android:name=".CitizenCartActivity" />
+        <activity android:name=".ReserveFieldActivity" />
+        <activity android:name=".FindFieldActivity" />
+        <activity android:name=".AddNewCropActivity" />
+        <activity android:name=".EditCropSectionActivity" />
+        <activity android:name=".MoreInfoAboutYourFieldActivity" />
+        <activity android:name=".YourFieldActivity" />
+        <activity android:name=".AddFieldActivity" />
+        <activity android:name=".HomePageCitizenActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".verify_mobile" />
+        <activity android:name=".HomePageActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

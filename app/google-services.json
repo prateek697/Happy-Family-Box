@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "381583369233",
+    "project_id": "happyfamilybox-beae0",
+    "storage_bucket": "happyfamilybox-beae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381583369233:android:8e172a3661d91675163db0",
+        "android_client_info": {
+          "package_name": "com.example.happyfamilybox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381583369233-221a31rdo91qgks5iciefk7nea6drojg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.happyfamilybox",
+            "certificate_hash": "737f348cc5f1fe2eb3a2b97c897fbe7a82ebc59d"
+          }
+        },
+        {
+          "client_id": "381583369233-j5smb71th5t1aodfars0evlthseir60h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWF-uLuWn_n1jpa43IEQk4uJ9md5PCSHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381583369233-j5smb71th5t1aodfars0evlthseir60h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Happy FamilyBox</string>
+    <string name="new_user_click_here_to_register">New User?. Click Here To Register</string>
+    <string name="already_an_user_click_here_to_login">Already an User?. Click here to Login</string>
+
+    <string name="selected_item">Selected item:</string>
+    <string name="full_name">Abby Sandel</string>
+    <string name="back_to_home">Back to\nHome</string>
+    <string name="username_title">Name</string>
+    <string name="username">Vasundhara Pant</string>
+    <string name="phone_title">Phone</string>
+    <string name="phone">+000 00 000 000</string>
+    <string name="email_title">Email</string>
+    <string name="email">goldenperfecttv@gmail.com</string>
+
+    <string-array name="Buildings">
+        <item>Ramanujan Block</item>
+        <item>Satish Dhawan Block</item>
+        <item>JC Bose Block</item>
+        <item>S.Radhakrishnan Block</item>
+    </string-array>
+
+    <string-array name="Capacity">
+        <item>50</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+    </string-array>
+
+
+    <string-array name="Months">
+        <item>Please select an Option</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+</resources>
+
+
+
